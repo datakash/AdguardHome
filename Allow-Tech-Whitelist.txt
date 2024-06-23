@@ -15,3 +15,5 @@ walmart.com
 web.whatsapp.com
 wordly.org
 youtube.com
+apple.com
+photos.google.com
