@@ -20,3 +20,4 @@ proxmox.com
 mit.edu
 debian.org
 datakash.com
+samsung.com
