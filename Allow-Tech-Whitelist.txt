@@ -24,3 +24,4 @@ samsung.com
 security.debian.org
 download.proxmox.com
 download.webmin.com
+googleapis.com
