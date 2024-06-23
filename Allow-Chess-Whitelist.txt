@@ -18,3 +18,4 @@ blog.sandiegochessclub.org
 openingsmaster.com
 playgrandmasters.com
 jackli.gg
+chessbase.com
