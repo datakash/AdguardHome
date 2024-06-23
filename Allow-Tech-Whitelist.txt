@@ -19,3 +19,4 @@ apple.com
 proxmox.com
 mit.edu
 debian.org
+datakash.com
