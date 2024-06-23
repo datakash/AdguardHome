@@ -16,3 +16,6 @@ web.whatsapp.com
 wordly.org
 youtube.com
 apple.com
+proxmox.com
+mit.edu
+debian.org
