@@ -21,7 +21,7 @@ mit.edu
 debian.org
 datakash.com
 samsung.com
-security.debian.org
-download.proxmox.com
-download.webmin.com
+debian.org
+proxmox.com
+webmin.com
 googleapis.com
