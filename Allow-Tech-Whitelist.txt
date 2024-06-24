@@ -25,3 +25,4 @@ samsung.com
 *.proxmox.com
 *.webmin.com
 *.googleapis.com
+*.nest.com
