@@ -1,4 +1,4 @@
-norton.com
+*.norton.com
 nortoncdn.com
 symantec.com
 outlook.live.com
