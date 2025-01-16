@@ -25,3 +25,5 @@ samsung.com
 *.webmin.com
 *.googleapis.com
 *.nest.com
+*.municipalcms.com
+*.municipalcms.cloud
